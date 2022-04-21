@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vowser
 - 👀 I’m interested in .NET
-- 🌱 I’m currently learning Serverless with Azure
+- 🌱 I’m currently learning ICP
 - 💞️ I’m looking to collaborate on Anything :)
 - 📫 How to reach me https://linktr.ee/vowser
 
